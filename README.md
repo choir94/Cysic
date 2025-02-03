@@ -6,7 +6,8 @@
 
 https://app.hyperbolic.xyz/
 
-1. Install Curl  
+1. Install Curl
+
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
@@ -24,7 +25,7 @@ sudo curl -L https://github.com/cysic-labs/phase2_libs/releases/download/v1.0.0/
 3. Install Firejail
 ```bash
 sudo apt-get install firejail
-```bash
+```
 
 4. Setup Supervisor
 Supervisor digunakan untuk mengelola proses prover secara otomatis.
