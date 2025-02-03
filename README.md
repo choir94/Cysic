@@ -2,6 +2,9 @@
 
 **⚠️ Pastikan Anda menjalankan dengan 2x RTX 4090 atau setara.**  
 **🚫 Jangan gunakan single GPU.**  
+**  Saya menggunakan Hyperbolic untuk menyewa VPS
+
+https://app.hyperbolic.xyz/
 
 1. Install Curl  
 ```bash
