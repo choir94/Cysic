@@ -84,3 +84,6 @@ sudo firejail --rlimit-as=352629760 supervisord -c supervisord.conf
 ```bash
 sudo firejail --rlimit-as=352629760 supervisorctl tail -f cysic-prover
 ```
+
+7. Jangan lupa untuk Back Up Key, Ada di folder .cysic
+
