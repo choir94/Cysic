@@ -2,7 +2,7 @@
 
 **⚠️ Pastikan Anda menjalankan dengan 2x RTX 4090 atau setara.**  
 **🚫 Jangan gunakan single GPU.**  
-**  Saya menggunakan Hyperbolic untuk menyewa VPS
+**  Saya menggunakan VPS dari Hyperbolic
 
 https://app.hyperbolic.xyz/
 
